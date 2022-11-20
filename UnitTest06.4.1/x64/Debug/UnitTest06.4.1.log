@@ -1,0 +1,6 @@
+﻿  UnitTest06.4.1.cpp
+C:\Student\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1.cpp(21,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Student\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1.cpp(44,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Student\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1\ChyrunSofialab6.4.1.cpp(47,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Student\ChyrunSofialab6.4.1\x64\Debug\UnitTest06.4.1.lib and object C:\Student\ChyrunSofialab6.4.1\x64\Debug\UnitTest06.4.1.exp
+  UnitTest06.4.1.vcxproj -> C:\Student\ChyrunSofialab6.4.1\x64\Debug\UnitTest06.4.1.dll
